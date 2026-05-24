@@ -31,7 +31,7 @@ Here are some of the technologies I worked with:
 *   **Description:** A research-focused project focusing on testing and comparing LLMs' behavior with Italian text rich in medical jagon.
 *   **Language and utils:** Python, Ollama.
 *   **Collaboration:** Partnered with a professional obstetric in the creation and curation of the validation set.
-*   
+ 
 ### 📁 [Low-Level / C Project for Data Structures course](https://github.com/JohnCarta01/API_project)
 *   **Description:** An application demonstrating efficient memory management, data structures, and optimization techniques implemented in pure C.
 *   **Language:** C89.
