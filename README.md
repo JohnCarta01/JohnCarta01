@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Gianluca, but I go by John 👋
 
-<!--
-**JohnCarta01/JohnCarta01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Engineering graduate from **Politecnico di Milano**. 
 
-Here are some ideas to get you started:
+I am passionate about building software that solves real-world problems and makes the user's life easier. My ultimate career dream is to develop impactful technology and programs dedicated to the **medical field**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Core Interests
+
+> "From manual memory management to teaching machines how to read."
+
+*   **Low-Level Development:** Performance tuning, resource constraints, and data structures in `C`.
+*   **AI & Research:** Natural Language Processing (NLP), specialized during my university thesis.
+---
+
+## 🛠️ Tech Stack & Tools
+
+Here are some of the technologies I worked with:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C89, Python, Java, SQL, Matlab, VHDL |
+| **Fields of Interest** | Natural Language Processing (NLP), Machine Learning, Low-Level Development |
+
+---
+
+## 🚀 Key Projects
+
+### 📁 [Thesis Project / Evaluating Large Language Models in an Italian Obstetric Context](https://github.com/JohnCarta01/MyThesis)
+*   **Description:** A research-focused project focusing on testing and comparing LLMs' behavior with Italian text rich in medical jagon.
+*   **Language and utils:** Python, Ollama.
+*   **Collaboration:** Partnered with a professional obstetric in the creation and curation of the validation set.
+*   
+### 📁 [Low-Level / C Project for Data Structures course](https://github.com/JohnCarta01/API_project)
+*   **Description:** An application demonstrating efficient memory management, data structures, and optimization techniques implemented in pure C.
+*   **Language:** C89.
+
+---
+
+## 📫 Contacts
+
+*   **LinkedIn:** [linkedin.com/in/gianlu-carta](https://linkedin.com/in/gianlu-carta)
+*   **Email:** gianlucarta01@gmail.com
