@@ -11,31 +11,18 @@ I am passionate about building software that solves real-world problems and make
 > "From manual memory management to teaching machines how to read."
 
 *   **Low-Level Development:** Performance tuning, resource constraints, and data structures in `C`.
-*   **AI & Research:** Natural Language Processing (NLP), specialized during my university thesis.
+*   **AI & Research:** Deep Learning for imaging, Natural Language Processing (NLP) specialized during my university thesis.
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Projects & Repositories
 
-Here are some of the technologies I worked with:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C89, Python, Java, SQL, Matlab, VHDL |
-| **Fields of Interest** | Natural Language Processing (NLP), Machine Learning, Low-Level Development |
-
----
-
-## 🚀 Key Projects
-
-### 📁 [Thesis Project / Evaluating Large Language Models in an Italian Obstetric Context](https://github.com/JohnCarta01/MyThesis)
-*   **Description:** A research-focused project focusing on testing and comparing LLMs' behavior with Italian text rich in medical jagon.
-*   **Language and utils:** Python, Ollama.
-*   **Collaboration:** Partnered with a professional obstetric in the creation and curation of the validation set.
- 
-### 📁 [Low-Level / C Project for Data Structures course](https://github.com/JohnCarta01/API_project)
-*   **Description:** An application demonstrating efficient memory management, data structures, and optimization techniques implemented in pure C.
-*   **Language:** C89.
-
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **NLP Thesis** | Studying LLMs behavior with obstetric textual data. | `Python`, `Ollama` | [📁 View Code](https://github.com/JohnCarta01/NLP_project) |
+| **Low-Level C Project** | Building an algorithm with memory and time constraints. | `C` | [📁 View Code](https://github.com/JohnCarta01/API_project) |
+| **NLP Project** | Medical QA by LLMs. | `Python` | [📁 View Code](https://github.com/JohnCarta01/NLP_project) |
+| **Medical Images Project** | Brain ventricles segmentation in MRI images. | `MatLab` | [📁 View Code](https://github.com/JohnCarta01/MedicalImages_project) |
+| **ANNDL Project** | Cell type prediction and Space images segmentation | `Python` | [📁 View Code](https://github.com/JohnCarta01/ANNDL-Challenges) |
 ---
 
 ## 📫 Contacts
