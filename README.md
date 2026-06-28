@@ -18,11 +18,12 @@ I am passionate about building software that solves real-world problems and make
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **NLP Thesis** | Studying LLMs behavior with obstetric textual data. | `Python`, `Ollama` | [📁 View Code](https://github.com/JohnCarta01/NLP_project) |
+| **Master's Thesis** | Studying LLMs behavior with obstetric textual data. | `Python`, `Ollama` | [📁 View Code](https://github.com/JohnCarta01/NLP_project) |
 | **Low-Level C Project** | Building an algorithm with memory and time constraints. | `C` | [📁 View Code](https://github.com/JohnCarta01/API_project) |
 | **NLP Project** | Medical QA by LLMs. | `Python` | [📁 View Code](https://github.com/JohnCarta01/NLP_project) |
 | **Medical Images Project** | Brain ventricles segmentation in MRI images. | `MatLab` | [📁 View Code](https://github.com/JohnCarta01/MedicalImages_project) |
 | **ANNDL Project** | Cell type prediction and Space images segmentation | `Python` | [📁 View Code](https://github.com/JohnCarta01/ANNDL-Challenges) |
+| **SE Project** | Implementation of a board game | `Java` | [📁 View Code](https://github.com/lorenzobottelli/MyShelfie-IS23-AM30) |
 ---
 
 ## 📫 Contacts
